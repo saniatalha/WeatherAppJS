@@ -1,0 +1,49 @@
+{
+  "coord": {
+    "lon": -3.1965,
+    "lat": 55.9521
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 9.08,
+    "feels_like": 5.7,
+    "temp_min": 7.93,
+    "temp_max": 9.55,
+    "pressure": 1004,
+    "humidity": 78,
+    "sea_level": 1004,
+    "grnd_level": 992
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.2,
+    "deg": 230
+  },
+  "rain": {
+    "1h": 0.1
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1773675289,
+  "sys": {
+    "type": 2,
+    "id": 2010172,
+    "country": "GB",
+    "sunrise": 1773642363,
+    "sunset": 1773685019
+  },
+  "timezone": 0,
+  "id": 2650225,
+  "name": "Edinburgh",
+  "cod": 200,
+  "_last_updated_utc": "2026-03-16T15:40:34.070Z"
+}
