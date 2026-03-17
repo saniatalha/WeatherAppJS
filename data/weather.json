@@ -1,49 +1,45 @@
 {
   "coord": {
-    "lon": -3.1965,
-    "lat": 55.9521
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
-      "id": 500,
-      "main": "Rain",
-      "description": "light rain",
-      "icon": "10d"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 9.08,
-    "feels_like": 5.7,
-    "temp_min": 7.93,
-    "temp_max": 9.55,
-    "pressure": 1004,
-    "humidity": 78,
-    "sea_level": 1004,
-    "grnd_level": 992
+    "temp": 13.15,
+    "feels_like": 12.37,
+    "temp_min": 13.15,
+    "temp_max": 13.15,
+    "pressure": 1015,
+    "humidity": 71,
+    "sea_level": 1015,
+    "grnd_level": 1011
   },
   "visibility": 10000,
   "wind": {
-    "speed": 7.2,
-    "deg": 230
-  },
-  "rain": {
-    "1h": 0.1
+    "speed": 5.7,
+    "deg": 198,
+    "gust": 8.8
   },
   "clouds": {
-    "all": 40
+    "all": 81
   },
-  "dt": 1773675289,
+  "dt": 1773750485,
   "sys": {
-    "type": 2,
-    "id": 2010172,
     "country": "GB",
-    "sunrise": 1773642363,
-    "sunset": 1773685019
+    "sunrise": 1773727832,
+    "sunset": 1773770841
   },
   "timezone": 0,
-  "id": 2650225,
-  "name": "Edinburgh",
+  "id": 2643743,
+  "name": "London",
   "cod": 200,
-  "_last_updated_utc": "2026-03-16T15:40:34.070Z"
+  "_last_updated_utc": "2026-03-17T12:33:48.156Z"
 }
