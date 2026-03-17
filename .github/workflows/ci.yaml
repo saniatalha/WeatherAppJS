@@ -2,9 +2,9 @@ name : Weather Pipeline CI/CD (JS)
 
 on: 
  push:
-schedule: 
-  -cron: "0 */2 * * *"
-  workfow_dispatch:
+ schedule: 
+    -cron: "0 */2 * * *"
+workfow_dispatch:
 
 permissions:
   contents: write
