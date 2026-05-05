@@ -5,32 +5,32 @@
   },
   "weather": [
     {
-      "id": 801,
-      "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 7.21,
-    "feels_like": 4.04,
-    "temp_min": 6.68,
-    "temp_max": 7.84,
-    "pressure": 1017,
-    "humidity": 64,
-    "sea_level": 1017,
+    "temp": 6.32,
+    "feels_like": 3.42,
+    "temp_min": 5.71,
+    "temp_max": 6.71,
+    "pressure": 1018,
+    "humidity": 66,
+    "sea_level": 1018,
     "grnd_level": 1006
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.14,
+    "speed": 4.12,
     "deg": 100
   },
   "clouds": {
-    "all": 20
+    "all": 0
   },
-  "dt": 1778008200,
+  "dt": 1778014667,
   "sys": {
     "type": 2,
     "id": 2010172,
@@ -42,5 +42,5 @@
   "id": 2650225,
   "name": "Edinburgh",
   "cod": 200,
-  "_last_updated_utc": "2026-05-05T19:11:35.067Z"
+  "_last_updated_utc": "2026-05-05T20:57:47.728Z"
 }
