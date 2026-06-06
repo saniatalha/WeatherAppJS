@@ -20,18 +20,18 @@
     "pressure": 1006,
     "humidity": 78,
     "sea_level": 1006,
-    "grnd_level": 994
+    "grnd_level": 995
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.68,
-    "deg": 197,
-    "gust": 0.84
+    "speed": 0.89,
+    "deg": 217,
+    "gust": 3.13
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1780779486,
+  "dt": 1780786500,
   "sys": {
     "type": 2,
     "id": 2010172,
@@ -43,5 +43,5 @@
   "id": 2650225,
   "name": "Edinburgh",
   "cod": 200,
-  "_last_updated_utc": "2026-06-06T20:58:20.549Z"
+  "_last_updated_utc": "2026-06-06T22:58:02.044Z"
 }
